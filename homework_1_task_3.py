@@ -1,0 +1,5 @@
+users_number = str(input("set number:"))
+a = int(users_number)
+b = int(users_number + users_number)
+c = int(3 * users_number)
+print(a + b + c)
